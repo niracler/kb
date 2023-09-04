@@ -20,6 +20,12 @@ Tech:
   - HackerNews:
     link: 
       - telegram: https://t.me/hacker_news_feed
+  - Armin Ronacher:
+    desc:
+      cn: Flask 作者
+      en: The author of Flask
+    link:
+      - blog: https://lucumr.pocoo.org/
 
 Read: 
   - duku(读库): 
