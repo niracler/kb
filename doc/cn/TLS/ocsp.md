@@ -1,5 +1,5 @@
 ---
-score: 30
+score: 60
 ---
 
 # OCSP 服务
