@@ -1,0 +1,46 @@
+General: 
+  - Luo Xiang(罗翔): 
+    desc:
+      cn: 法律
+      en: Law
+  - Wang Jie(汪洁): 
+    desc:
+      cn: 科学思维
+      en: Scientific thinking
+
+Tech:
+  - QBen:
+    desc:
+      cn: 很靠近的可以模仿的在我前面的人
+      en: People who are very close and can imitate in front of me
+  - DIYgod:
+    desc:
+      cn: 有趣、轻松愉快、平易近人
+      en: Interesting, relaxed and happy and approachable
+  - HackerNews:
+    link: 
+      - telegram: https://t.me/hacker_news_feed
+  - Armin Ronacher:
+    desc:
+      cn: Flask 作者
+      en: The author of Flask
+    link:
+      - blog: https://lucumr.pocoo.org/
+
+Read: 
+  - duku(读库): 
+    desc:
+      cn: 别人的故事，非虚构性写作
+      en: Other people's stories, non-fiction writing
+  - ／いしぐろまさかず(石黑正数): 
+    desc:
+      cn: 值得琢磨的作品
+      en: Works worth pondering
+  - Fuji_玫瑰叔: 
+    desc:
+      cn: 书评
+      en: Book review
+  - 余光中:
+    desc:
+      cn: 诗歌, 让我有点文化吧
+      en: Poetry, Let me have some culture
